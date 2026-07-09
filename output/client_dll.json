@@ -3930,7 +3930,7 @@
           "m_nRagdollDamageBone": 6860,
           "m_nWhichBombZone": 7264,
           "m_pActionTrackingServices": 5256,
-          "m_pAimPunchServices": 5264,
+          "m_pAimPunchServices": 0x14B8,
           "m_pBulletServices": 5224,
           "m_pBuyServices": 5240,
           "m_pDamageReactServices": 5272,
