@@ -57,10 +57,10 @@
     "m_iszPlayerName": 1780,
     "m_vecCsViewPunchAngle": 72,
     "m_iShotsFired": 7300,
-    "m_pAimPunchServices": 5304,
+    "m_pAimPunchServices": 0x14B8,
     "m_entitySpottedState": 7256,
     "m_iIDEntIndex": 986,
     "m_aimPunchAngle": 88,
-    "m_aimPunchCache": 104,
+    "m_aimPunchCache": 0x68,
     "m_pClippingWeapon": 5648,
     "m
