@@ -3250,7 +3250,7 @@
           "m_nVisibilityNoInterpolationTick": 876,
           "m_nWaterType": 888,
           "m_pCollision": 832,
-          "m_pGameSceneNode": 816,
+          "m_pGameSceneNode": 0x330,
           "m_pRenderComponent": 824,
           "m_sUniqueHammerID": 1520,
           "m_spawnflags": 1004,
@@ -3889,7 +3889,7 @@
           "m_bShouldAutobuyDMWeapons": 12848,
           "m_bWaitForNoAttack": 7280,
           "m_delayTargetIDTimer": 13312,
-          "m_entitySpottedState": 7224,
+          "m_entitySpottedState": 0x1C58,
           "m_fImmuneToGunGameDamageTime": 12852,
           "m_fImmuneToGunGameDamageTimeLast": 12860,
           "m_fMolotovDamageTime": 12864,
@@ -5261,7 +5261,7 @@
       "C_PlantedC4": {
         "fields": {
           "m_AttributeManager": 4544,
-          "m_bBeingDefused": 4508,
+          "m_bBeingDefused": 0x11DC,
           "m_bBombDefused": 4532,
           "m_bBombTicking": 4448,
           "m_bC4Activated": 4520,
