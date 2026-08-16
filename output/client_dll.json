@@ -7411,17 +7411,7 @@
         },
         "type": "uint32"
       },
-      "_1_e__": {
-        "alignment": 0,
-        "members": {},
-        "type": "unknown"
-      },
-      "_I_e__": {
-        "alignment": 0,
-        "members": {},
-        "type": "unknown"
-      },
-      "_V_e__": {
+      "_V_Չ_": {
         "alignment": 0,
         "members": {},
         "type": "unknown"
