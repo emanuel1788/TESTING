@@ -7458,27 +7458,12 @@
         },
         "type": "uint32"
       },
-      "_3____": {
+      "_3y___": {
         "alignment": 0,
         "members": {},
         "type": "unknown"
       },
       "_C____": {
-        "alignment": 0,
-        "members": {},
-        "type": "unknown"
-      },
-      "_K____": {
-        "alignment": 0,
-        "members": {},
-        "type": "unknown"
-      },
-      "_X____": {
-        "alignment": 0,
-        "members": {},
-        "type": "unknown"
-      },
-      "______": {
         "alignment": 0,
         "members": {},
         "type": "unknown"
