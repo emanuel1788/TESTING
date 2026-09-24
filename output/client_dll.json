@@ -4162,7 +4162,8 @@
           "m_vecPlayerPatchEconIndices": 7632,
           "m_vecStashedGrenadeThrowPawnCenter": 8000,
           "m_vecStashedGrenadeThrowPosition": 7988,
-          "m_vecStashedVelocity": 8012
+          "m_vecStashedVelocity": 8012,
+          "m_pClippingWeapon": 5024
         },
         "metadata": [],
         "parent": "C_CSPlayerPawnBase"
