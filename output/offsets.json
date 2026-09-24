@@ -14,7 +14,9 @@
     "dwViewAngles": 39264536,
     "dwViewMatrix": 39196912,
     "dwViewRender": 39199152,
-    "dwWeaponC4": 38536496
+    "dwWeaponC4": 38536496,
+    "dwSensitivity": 39162592,
+    "dwSensitivity_sensitivity": 88
   },
   "engine2.dll": {
     "dwBuildNumber": 6406636,
@@ -36,6 +38,7 @@
     "dwGameTypes": 1773520
   },
   "soundsystem.dll": {
-    "dwSoundSystem": 5460800
+    "dwSoundSystem": 5460800,
+    "dwSoundSystem_engineViewData": 108
   }
 }
