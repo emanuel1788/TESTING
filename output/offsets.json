@@ -14,9 +14,10 @@
     "dwViewMatrix": 39179216,
     "dwViewRender": 39181720,
     "dwWeaponC4": 38517760,
-    "dwSensitivity": 39144512,
-    "dwPlantedC4": 38550824,
-    "dwSensitivity_sensitivity": 88
+    "dwPlantedC4": 38526824,
+    "dwSensitivity": 39144520,
+    "dwSensitivity_sensitivity": 88,
+    "dwServerConfirmedReservation": 39249736
   },
   "engine2.dll": {
     "dwBuildNumber": 7023900,
